@@ -1,6 +1,9 @@
-# Analisi e Confronto di Algoritmi di Ricerca su un Dataset Reale[cite: 1]
+# Intelligenza Artificiale Universita
+> **Progetto per il corso di Fondamenti di  Intelligenza Artificiale** > Corso di Laurea in Ingegneria Informatica - Università di Napoli Federico Secondo, UNINA
 
-**Progetto a cura di:** Matteo Emanuele Mazza, Luca Pagliarulo, Matteo Marciano
+---
+
+# Analisi e Confronto di Algoritmi di Ricerca su un Dataset Reale[cite: 1]
 
 ## 🎯 Obiettivo del Progetto
 Il progetto ha l'obiettivo di analizzare e confrontare le prestazioni di vari algoritmi di ricerca del cammino su un dataset reale rappresentato dalla rete di coacquisti di Amazon, aggiornata a marzo 2002[cite: 1]. Il dataset viene utilizzato per testare algoritmi di ricerca classici, evidenziando i tempi di esecuzione, l'uso della memoria e la complessità operativa per ciascun approccio[cite: 1].
