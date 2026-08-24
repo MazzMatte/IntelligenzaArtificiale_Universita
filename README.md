@@ -3,10 +3,10 @@
 
 ---
 
-# Analisi e Confronto di Algoritmi di Ricerca su un Dataset Reale[cite: 1]
+# Analisi e Confronto di Algoritmi di Ricerca su un Dataset Reale
 
 ## 🎯 Obiettivo del Progetto
-Il progetto ha l'obiettivo di analizzare e confrontare le prestazioni di vari algoritmi di ricerca del cammino su un dataset reale rappresentato dalla rete di coacquisti di Amazon, aggiornata a marzo 2002[cite: 1]. Il dataset viene utilizzato per testare algoritmi di ricerca classici, evidenziando i tempi di esecuzione, l'uso della memoria e la complessità operativa per ciascun approccio[cite: 1].
+Il progetto ha l'obiettivo di analizzare e confrontare le prestazioni di vari algoritmi di ricerca del cammino su un dataset reale rappresentato dalla rete di coacquisti di Amazon, aggiornata a marzo 2002. Il dataset viene utilizzato per testare algoritmi di ricerca classici, evidenziando i tempi di esecuzione, l'uso della memoria e la complessità operativa per ciascun approccio.
 
 ## 📊 Dataset Utilizzato
 *   **Nome del file:** `Amazon0302.txt`
