@@ -10,7 +10,7 @@ Il progetto ha l'obiettivo di analizzare e confrontare le prestazioni di vari al
 
 ## 📊 Dataset Utilizzato
 *   **Nome del file:** `Amazon0302.txt`
-*   **Descrizione:** Il dataset contiene un grafo diretto che rappresenta le vendite su Amazon[cite: 1].
+*   **Descrizione:** Il dataset contiene un grafo diretto che rappresenta le vendite su Amazon.
 *   **Struttura del Grafo:** 
     *   **Nodi (262.111):** Ogni nodo rappresenta un prodotto.
     *   **Archi (1.234.877):** Ogni arco diretto rappresenta la relazione "i clienti che hanno acquistato questo articolo hanno acquistato anche".
